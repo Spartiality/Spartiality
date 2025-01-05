@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Andika Aryo Wahyudi
 
-Contact me!
-✉️ dika.development@gmail.com
+Contact me!;
+✉️ dika.development@gmail.com;
 Discord : andikawahyudi._
 
 <!---
