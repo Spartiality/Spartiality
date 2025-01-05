@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Andika Aryo Wahyudi
 
-Contact me!;
-✉️ dika.development@gmail.com;
-Discord : andikawahyudi._
+Contact me!  
+✉️ dika.development@gmail.com  
+Discord : andikawahyudi._  
 
 <!---
 Spartiality/Spartiality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
